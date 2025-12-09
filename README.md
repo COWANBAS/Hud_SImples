@@ -1,4 +1,4 @@
-Script que adiciona um simples hud da barra de vida fome e sanidade no Don't Starve together adabtado para rodar no Linux.
+Script que adiciona um simples hud da barra de vida fome e sanidade no Don't Starve together adaptado para rodar no Linux.
 
 # Inicio do mod
 
