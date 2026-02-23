@@ -33,7 +33,7 @@ O script redefine os métodos padrão da classe "Badge" (widgets usados na HUD):
 
 - Alternam entre num (número principal) e num2 (número secundário).
 - Mostram ou escondem números dependendo de qual elemento está em foco (por exemplo, quando o jogador passa o mouse).
-- 
+
 # SetPercent
 
 - Atualiza o número mostrado no medidor.
