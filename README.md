@@ -52,7 +52,7 @@ Adiciona a exibição da temperatura do jogador no relógio da HUD.
 
 <img width="887" height="294" alt="image" src="https://github.com/user-attachments/assets/796a57cd-95b3-428c-aa28-7a178e15f722" />
 
-<img width="887" height="294" alt="image" src="https://github.com/user-attachments/assets/138b7212-439c-4b74-82e9-ce4d24ed42eb" />
+<img width="900" height="362" alt="image" src="https://github.com/user-attachments/assets/cad2b491-d33a-4528-bd67-d19722f12505" />
 
 # Modificação no medidor de chuva (MoistureMeter)
 
