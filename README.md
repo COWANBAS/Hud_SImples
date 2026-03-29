@@ -62,7 +62,7 @@ Modifica o comportamento do medidor de umidade (rain meter):
 - Aplica cores configuradas ou efeito arco-íris.
 - Usa o mesmo estilo visual dos outros badges.
 
-<img width="1651" height="662" alt="image" src="https://github.com/user-attachments/assets/10d2fd3c-41f1-4b94-8fa3-aed4992b9e9b" />
+<img width="910" height="267" alt="image" src="https://github.com/user-attachments/assets/7d0c52d9-e861-48fd-902e-d04d68bb70ea" />
 
 # RESUMO
 
