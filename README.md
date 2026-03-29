@@ -23,7 +23,7 @@ Quando o modo arco-íris está ativo:
 - A cada “tick” (atualização), altera levemente os valores R, G e B, oscilando entre 0.2 e 0.9;
 - Isso gera um efeito contínuo de mudança de cor, aplicado aos números e setas dos medidores (badges).
 
-<img width="865" height="381" alt="image" src="https://github.com/user-attachments/assets/70d88daa-adb6-4d28-aab0-140c2e8dc935" />
+<img width="793" height="327" alt="image" src="https://github.com/user-attachments/assets/06b387db-0589-4e80-824d-8c854eeb1eff" />
 
 # Modificações nos badges (ícones de status: fome, sanidade, etc.)
 
