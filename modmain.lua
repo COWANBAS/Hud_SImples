@@ -94,7 +94,7 @@ function Badge:SetPercent(val,max)
 			self.num2:SetPosition(5, 0, 0)
 			self.num2:SetColour(GetModConfigData("numbercolorbottom")[1],GetModConfigData("numbercolorbottom")[2],GetModConfigData("numbercolorbottom")[3],GetModConfigData("numberalpha"))
 			self.num2:Hide()
---arrows
+		
 			if self.sanityarrow then
 				GLOBAL.GetPlayer():DoPeriodicTask(0, function(inst)
 					if self.arrowdir then
@@ -117,15 +117,14 @@ function Badge:SetPercent(val,max)
 					end
 				end)
 			end
---/arrows
---For controllers:
+
 			GLOBAL.TheInput:AddControlHandler(GLOBAL.CONTROL_OPEN_CRAFTING, function(down)
 				self.num:Show()
 			end)
 			GLOBAL.TheInput:AddControlHandler(GLOBAL.CONTROL_OPEN_INVENTORY, function(down)
 				self.num:Show()
 			end)
---/controllers
+
 		end
 		if type(max)=="number" then
 			max=math.ceil(max)
@@ -145,7 +144,7 @@ function Badge:SetPercent(val,max)
 				end
 			end)
 		end
---adaptive colors
+
 		if GetModConfigData("enableadapttopcolor")==true and GetModConfigData("makerainbow")~=true and not self.adaptivecolorsetup and self.num and self.num.string and max then
 			self.adaptivecolorsetup=true
 			GLOBAL.GetPlayer():DoPeriodicTask(0, function(inst)
@@ -167,11 +166,11 @@ function Badge:SetPercent(val,max)
 				end
 			end)
 		end
---/adaptive colors
+
 	return asdf
 end
 
---temperature:
+
 local UIClock=require"widgets/uiclock"
 local myclockupdate=UIClock.UpdateDayString
 function UIClock:UpdateDayString()
@@ -214,7 +213,6 @@ function UIClock:UpdateDayString()
 	return asdf
 end
 
---rain meter:
 AddSimPostInit(function(inst)
 	if (GLOBAL.IsDLCEnabled(1)) then
 		local MoistureMeter = require "widgets/moisturemeter"
