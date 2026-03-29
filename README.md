@@ -13,7 +13,7 @@ Se a configuração do mod "enablecustomcolor" estiver ativada e o modo "arco-í
 
 Essas configurações vêm das opções do mod configuráveis no menu.
 
-<img width="852" height="404" alt="image" src="https://github.com/user-attachments/assets/e02fa30c-e7e2-4ff3-8530-c6873d9b3588" />
+<img width="784" height="345" alt="image" src="https://github.com/user-attachments/assets/b2a7ce30-a4da-4e61-83b7-4204dba103aa" />
 
 # Rainbow mode
 
