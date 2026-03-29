@@ -50,7 +50,9 @@ Adiciona a exibição da temperatura do jogador no relógio da HUD.
 - Atualiza continuamente o texto.
 - Aplica as cores personalizadas ou o efeito arco-íris, conforme configurado.
 
-<img width="1677" height="653" alt="image" src="https://github.com/user-attachments/assets/703c8377-c2fd-4fc9-b9b6-f1a287529aa7" />
+<img width="887" height="294" alt="image" src="https://github.com/user-attachments/assets/796a57cd-95b3-428c-aa28-7a178e15f722" />
+
+<img width="908" height="364" alt="image" src="https://github.com/user-attachments/assets/138b7212-439c-4b74-82e9-ce4d24ed42eb" />
 
 # Modificação no medidor de chuva (MoistureMeter)
 
